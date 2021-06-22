@@ -1,0 +1,22 @@
+.voltar {
+    display: block;
+    margin-top: 25px;
+}
+
+.container {
+    max-width: 365px;
+    margin: auto;
+    background-color: rgb(164, 191, 241);
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+button {
+    padding: 5px;
+    margin-top: 20px;
+}
