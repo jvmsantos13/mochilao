@@ -13,29 +13,31 @@
 
         <h2>Escolha seus destinos:</h2>
 
-        <input type="checkbox" name="pais1" id="pais1" value="peru">
-        <label for="pais1">Peru</label>
+        <form method="post" id="fContato" oninput="cal_total();">
+            <input type="checkbox" name="pais1" id="pais1" value="peru">
+            <label for="pais1">Peru</label>
 
-        <input type="checkbox" name="pais2" id="pais2" value="chile">
-        <label for="pais2">Chile</label>
+            <input type="checkbox" name="pais2" id="pais2" value="chile">
+            <label for="pais2">Chile</label>
 
-        <input type="checkbox" name="pais3" id="pais3" value="bolivia">
-        <label for="pais3">Bolivia</label>
+            <input type="checkbox" name="pais3" id="pais3" value="bolivia">
+            <label for="pais3">Bolivia</label>
 
-        <input type="checkbox" name="pais4" id="pais4" value="uruguai">
-        <label for="pais4">Uruguai</label>
+            <input type="checkbox" name="pais4" id="pais4" value="uruguai">
+            <label for="pais4">Uruguai</label>
 
-        <input type="checkbox" name="pais5" id="pais5" value="argentina">
-        <label for="pais5">Argentina</label>
+            <input type="checkbox" name="pais5" id="pais5" value="argentina">
+            <label for="pais5">Argentina</label>
 
-        <hr>
+            <hr>
 
-        <div>
-            <input type="checkbox" name="voltar" id="voltar" value="voltar">
-            <label for="voltar">Deseja passagem de volta ?</label>
-        </div>
+            <div>
+                <input type="checkbox" name="voltar" id="voltar" value="voltar">
+                <label for="voltar">Deseja passagem de volta ?</label>
+            </div>
 
-        <button>Calcular</button>
+            <button>Calcular</button>
+        </form>
 
         <div class="resultado">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
