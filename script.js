@@ -1,3 +1,327 @@
 cal_total() {
-    let passagens = 
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
+}
+cal_total() {
+    let passagens = document.getElementById('pais1').value
 }
