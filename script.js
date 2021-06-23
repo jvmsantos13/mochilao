@@ -9,5 +9,4 @@ function calcular () {
     let resultado  = parseInt(pais1) + parseInt(pais2) + parseInt(pais3) + parseInt(pais4) + parseInt(pais5) + parseInt(retorno);
 
  document.querySelector('.resultado').innerHTML = 'Seu custo total de viagem é de R$ ' + resultado;
-
 }
