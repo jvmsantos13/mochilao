@@ -5,44 +5,43 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
     <title>Mochilão</title>
 </head>
 <body>
-    <div class="container">
-        <h1>Mochilão América do Sul</h1>
+   
+        <div id="container">
+            <h1>Mochilão América do Sul</h1>
 
-        <h2>Escolha seus destinos:</h2>
-
-        <form>
-            <input type="checkbox" name="pais1" id="pais1" value="peru">
+            <h2>Escolha seus destinos:</h2>
+            
+            <input type="checkbox" name="pais1" class="peru" value="780.00">
             <label for="pais1">Peru</label>
 
-            <input type="checkbox" name="pais2" id="pais2" value="chile">
+            <input type="checkbox" name="pais2" class="chile" value="960.00">
             <label for="pais2">Chile</label>
 
-            <input type="checkbox" name="pais3" id="pais3" value="bolivia">
+            <input type="checkbox" name="pais3" class="bolivia" value="870.00">
             <label for="pais3">Bolivia</label>
 
-            <input type="checkbox" name="pais4" id="pais4" value="uruguai">
+            <input type="checkbox" name="pais4" class="uruguai" value="910.00">
             <label for="pais4">Uruguai</label>
 
-            <input type="checkbox" name="pais5" id="pais5" value="argentina">
+            <input type="checkbox" name="pais5" class="argentina" value="980.00">
             <label for="pais5">Argentina</label>
 
             <hr>
 
             <div>
-                <input type="checkbox" name="voltar" id="voltar" value="voltar">
+                <input type="checkbox" name="voltar" class="voltar" value="350.00">
                 <label for="voltar">Deseja passagem de volta ?</label>
             </div>
 
-            <button>Calcular</button>
-        </form>
+            <button onclick="calcular()">Calcular</button>
 
-        <div class="resultado">
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p class="resultado"></p>  
         </div>
-    </div>
+    
 
     <div class="precos">
         <h1>Tabela de preços</h1>
@@ -79,7 +78,5 @@
         <p class="obs">Passagem de volta, será cobrado um valor fixo de R$ 350,00.</p>
 
     </div>
-
-    <script src="script.js"></script>
 </body>
 </html>
