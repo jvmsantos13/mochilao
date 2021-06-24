@@ -22,4 +22,8 @@ function calcular () {
     document.addEventListener('click', function() {
         var voltar = document.querySelectorAll('input[valeu="350.00"][type="checkbox"]:checked').length;
     })
+
+    var passagem = parseInt(peru) + parseInt(chile) + parseInt(bolivia) + parseInt(uruguai) + parseInt(argentina) + parseInt(voltar);
+
+    document.querySelector('.resultado'). innerHTML = passagem;
 }
