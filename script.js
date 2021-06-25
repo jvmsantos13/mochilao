@@ -7,6 +7,6 @@ function calcular() {
       for(let i = 0; i < itens.length; i++) {
         values = values + (parseFloat(itens[i].value));
       }
-     document.querySelector('.resultado').innerHTML = 'Seu custo total de viagem é de R$ ' + values + ' reais';
+     document.querySelector('.resultado').innerHTML = 'Seu custo total de viagem é de R$ ' + values + ',00 reais';
     }
   }
