@@ -26,7 +26,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 *Link do projeto:* -
 
-![](-)
+![](img/gifanimado.gif)
 
 ## Autor
 João Victor Monteiro <br />
