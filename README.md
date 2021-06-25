@@ -21,10 +21,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Javascript
 
 <h4 align="center"> 
-	:construction: Projeto em desenvolvimento :construction:
+	:computer: Projeto concluído :heavy_check_mark:
 </h4>
 
-*Link do projeto:* -
+*Link do projeto:* https://jvmsantos13.github.io/Mochilao/
 
 ![](img/gifanimado.gif)
 
