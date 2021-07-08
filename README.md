@@ -1,8 +1,8 @@
 ## Mochilão América do Sul
 
-<p align="center">Programa para mostrar o custo de um mochilão para alguns países da América do Sul. Calculando com base nas suas escolhas de destino.</p>
+<p align="center">Programa para mostrar o custo de um mochilão para alguns países da América do Sul. Calculando sua passagem com base dos lugares selecionados.</p>
 
-*Obs:* Valores/Custos das passagens para os devidos destinos. Caso o usuário selecionar passagem de volta, será cobrado um valor fixo de R$ 350,00.
+*Obs:* Caso o usuário selecionar passagem de volta, será cobrado um valor fixo de R$ 350,00.
 
 País | Passagem
 :--------- | :------:
